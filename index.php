@@ -70,10 +70,12 @@
             <nav class="amado-nav">
                 <ul>
                     <li class="active"><a href="index.html">Home</a></li>
-                    <li><a href="shop.html">Shop</a></li>
+                    <li><a href="roses-regular.html">Spray Rores Regular</a></li>
+                    <li><a href="roses-garden.html">Spray Roses Garden</a></li>
+                    <li><a href="roses-premium.html">Spray Roses Premium</a></li>
+                    <li><a href="roses-standard.html">Roses Standard</a></li>
+                    <li><a href="summer-flowers.html">Summer Flowers</a></li>
                     <li><a href="product-details.html">Product</a></li>
-                    <li><a href="cart.html">Cart</a></li>
-                    <li><a href="checkout.html">Checkout</a></li>
                 </ul>
             </nav>
             <!-- Button Group -->
